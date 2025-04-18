@@ -18,21 +18,6 @@ Key Features:
 
     Predictive dashboard or API integration (optional)
 
-📁 Project Structure
-
-predict-employee-attrition/
-│
-├── data/                  # Raw and processed data
-├── notebooks/             # Jupyter notebooks for EDA and modeling
-├── models/                # Trained ML models
-├── app/                   # Optional: Web app or API
-├── src/                   # Source code for data processing and training
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   └── utils.py
-├── requirements.txt       # Python dependencies
-├── README.md              # Project documentation
-└── attrition_prediction.ipynb  # Main notebook
 
 📊 Dataset
 
