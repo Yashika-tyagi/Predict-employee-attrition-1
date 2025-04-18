@@ -1,4 +1,4 @@
-📊 Predict Employee Attrition
+📊 Predict Employee Attrition.
 
 This project uses machine learning to predict employee attrition, helping organizations identify individuals who may be at risk of leaving. By leveraging historical HR data, we aim to improve retention strategies and support data-driven decision-making.
 🚀 Project Overview
